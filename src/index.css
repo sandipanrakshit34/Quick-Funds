@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body h1{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+}
+body p{
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+#Footer{
+    background-image: url(./Images/Footer.jpg);
+    background-size: cover;
+}

@@ -1,0 +1,9 @@
+export {default as Button} from './Button/Button';
+export {default as Header} from './Header/Header';
+export {default as HeroCard} from './HeroCard/HeroCard';
+export {default as Card} from './Card/Card';
+export {default as OurServices} from './OurServices/OurServices';
+export {default as HowWeWorks} from './HowWeWorks/HowWeWorks';
+export {default as HowWeWorks_Card} from './HowWeWorks/HowWeWorks_Card';
+export {default as About_us} from './About_us/About_us';
+export {default as Footer} from './Footer/Footer';
